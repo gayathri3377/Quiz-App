@@ -4,9 +4,11 @@
 
 The Quiz App is a Flutter-based application designed to challenge users with a series of questions and provide a comprehensive summary of their quiz results. The app ensures a smooth and responsive user experience.
 
-![Welcome Page](https://github.com/gayathri3377/Quiz-App/assets/152592583/d7e76508-e4bb-4755-8ad3-09cf450141cf)
-![Question Page](https://github.com/gayathri3377/Quiz-App/assets/152592583/7171ae1d-2e46-4616-97fa-1a35f50967ea)
-![Summary Page](https://github.com/gayathri3377/Quiz-App/assets/152592583/b4a54da2-5d93-4c22-a66e-60d5fa29a7c4)
+<p float="left">
+  <img src="https://github.com/gayathri3377/Quiz-App/assets/152592583/d7e76508-e4bb-4755-8ad3-09cf450141cf" width="200" />
+  <img src="https://github.com/gayathri3377/Quiz-App/assets/152592583/7171ae1d-2e46-4616-97fa-1a35f50967ea" width="200" /> 
+  <img src="https://github.com/gayathri3377/Quiz-App/assets/152592583/b4a54da2-5d93-4c22-a66e-60d5fa29a7c4" width="200" />
+</p>
 
 ## Features
 
