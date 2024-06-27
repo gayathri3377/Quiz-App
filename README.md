@@ -1,16 +1,21 @@
-# quizz
+# Quiz App
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+The Quiz App is a Flutter-based application designed to challenge users with a series of questions and provide a comprehensive summary of their quiz results. The app ensures a smooth and responsive user experience.
 
-This project is a starting point for a Flutter application.
+![Welcome Page](https://github.com/gayathri3377/Quiz-App/assets/152592583/d7e76508-e4bb-4755-8ad3-09cf450141cf)
+![Question Page](https://github.com/gayathri3377/Quiz-App/assets/152592583/7171ae1d-2e46-4616-97fa-1a35f50967ea)
+![Summary Page](https://github.com/gayathri3377/Quiz-App/assets/152592583/b4a54da2-5d93-4c22-a66e-60d5fa29a7c4)
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Interactive Quiz:** Displays questions with shuffled answer options to challenge the user's knowledge.
+- **Summary of Results:** Provides a detailed summary at the end of the quiz, showing correct and incorrect answers.
+- **Responsive Design:** Built with Flutter, ensuring a smooth and responsive user interface across different devices.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Future Enhancements
+
+- **User Authentication:** Integrate user authentication to personalize quiz experiences and track progress.
+- **More Question Categories:** Expand the quiz with additional question sets covering various topics.
+- **Leaderboard:** Implement a leaderboard feature to allow users to compare their scores with others.
